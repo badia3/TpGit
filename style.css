@@ -20,3 +20,6 @@ body{
 .flex-item.w66{
   width:66.66%;
 }
+.item{
+background-color: red;
+}
